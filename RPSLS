@@ -1,0 +1,13 @@
+git remote add origin https://github.com/3than-Davis/APCSA-2023.git
+RPS Project:
+Rules
+  - Scissors Win Paper
+  - Paper Win Rock
+  - Rock Win Lizard
+  - Lizard Win Spock
+  - Spock Win Scissors
+  - Scissors Win Lizard
+  - Lizard Win Paper
+  - Paper Win Spock
+  - Spock Win Rock
+  - Rock Win Scissors
